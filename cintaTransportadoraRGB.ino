@@ -13,7 +13,7 @@ Fecha: 23-11-2023
 Versión: 1.00
 Repositorio: https://github.com/martuan/cintaTransportadoraRGB
 hola
-
+chau
 
 
 */
